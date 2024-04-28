@@ -17,3 +17,10 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 ( 2,6,16,18,22,27 )
 
 
+
+
+2- Big-O gösterimini yazınız.
+
+O (n^2) 
+
+
